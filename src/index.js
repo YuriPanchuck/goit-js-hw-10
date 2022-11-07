@@ -1,5 +1,5 @@
 import { debounce } from 'debounce';
-import { fetchCountries } from './fetchCountries';
+import { fetchCountries } from './fetchCountries.js'
 import Notiflix from 'notiflix';
 import './css/styles.css';
 
